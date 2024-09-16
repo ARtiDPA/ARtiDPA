@@ -1,5 +1,5 @@
 - 👋 Привет, Я Артём
-![](https://leetcard.ebPREQskOp/lapor?ext=heatmap)
+! [Статистика по Leetcode](https://leetcard.ebpreqskop/ebPREQskOp)
 
 <!---
 ARtiDPA/ARtiDPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
