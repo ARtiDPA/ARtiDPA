@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Artyom 👋</h1>
 <div align="center">
-<h2>I'm a programmer. :)</h2>
+<h2>I'm a programmer :)</h2>
 </div>
 <h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
