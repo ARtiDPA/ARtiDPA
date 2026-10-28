@@ -15,8 +15,5 @@
 <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff">&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;</div>
 <h2 align="center">🛠 My Stats</h2>
-<div align="center" text='center'>
-<img src="https://leetcard.jacoblin.cool/ebPREQskOp?theme=dark&font=ABeeZee&ext=heatmap" alt="Top Languages Card">
-</div>
 <h2 align="center">📫 Connect with me</h2>
 
